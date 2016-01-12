@@ -18,3 +18,7 @@ When performing a file decryption the file content are read and best score is ch
 Known issues
 ================
 Based on the cypher the file or message content containing spaces will result in a space less, chained string. Form this reason the original message can not be reproduced. 
+
+UML
+================
+https://raw.githubusercontent.com/pete314/railfence-cypher/master/uml.png
